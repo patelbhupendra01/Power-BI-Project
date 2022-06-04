@@ -9,7 +9,7 @@
 
 
 **2.** 
-**Project Title: Good Read Books
+**Project Title: Good Read Books**
 
 **Dataset Source:  Data Omega Challenge of May 2022**
 
@@ -19,7 +19,7 @@
 
 
 **3.**
-**Project Title: Global Firepower 2022 X **
+**Project Title: Global Firepower 2022 X**
 
 **Dataset Source:  D'CHALLENGER 2022**
 
