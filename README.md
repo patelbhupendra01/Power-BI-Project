@@ -1,3 +1,21 @@
+**5.**
+**Project Title: Forbes World’s Billionaires List 2022**
+
+**Dataset Source:  Onyx Data Challenge**
+
+**Insights:** 
+1. USA is Playing vital role in Global Economy 
+2. In the Top 10 Billionaires, 8 Billionaires from USA
+3. Most Billionaires belongs to USA, CHINA, INDIA, and GERMANY
+4. The main sectors are Technology, Finance & Investments and Fashion & Retail
+5. Warren Buffett hold the highest Philanthropist Rank all time
+6. Near to 88% of the Billionaires are Male, while only 12% are Women
+7. The most age group of Billionaires between 60 and 80
+8. Around 71% of people self-made Billionaires
+
+![1](https://user-images.githubusercontent.com/106047080/172774705-7eb3dc1c-6560-4d5a-aef0-5054df8f0551.PNG)
+
+
 **1.**
 **Project Title: Airline Passenger Satisfaction**
 
@@ -36,5 +54,7 @@
 **Insights of Project:**  To identify the Top 10 countries won the highest Nobel prize with specific field. Furthermore, include the summarize the age wise Nobel prize winner. 
 
 ![Final Report](https://user-images.githubusercontent.com/106047080/171982491-e3a782cc-194e-4b35-9c8f-f7524d9b3139.PNG)
+
+
 
 
